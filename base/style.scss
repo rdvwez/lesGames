@@ -1,0 +1,14 @@
+$grid-columns: 16;
+$grid-gutter-width: 15px;
+// $grid-row-width: 15px;
+
+// Mes Couleurs__ 
+$primary:       rgba(12, 166, 238, 1);
+$secondary:     rgba(40, 113, 146, 1);
+$success:       rgba(9, 219, 238, 1);
+$info:          rgba(224, 13, 243, 1);
+$warning:       rgba(238, 115, 14, 1);
+$danger:        rgba(243, 20, 12, 1);
+$light:         rgba(179, 180, 192, 0.733);
+$dark:          #000;
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
