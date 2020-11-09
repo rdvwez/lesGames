@@ -1,0 +1,16 @@
+# Lines starting with `#` are comments.
+
+# Ignorer els fichiers suivnats
+gulpfile.js
+package.json
+package-lock.json
+particles.json
+
+
+
+
+# Ignoring directories
+# Ne pas enregistrer les elements de bootdtrap
+node_modules/
+
+
