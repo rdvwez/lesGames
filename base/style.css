@@ -102,3 +102,30 @@ body {
     line-height: 14px; 
     padding-bottom: 2px; 
     font-family: Helvetica, Arial, sans-serif; font-weight: bold; } 
+
+    /*========================================================= 
+    code css du bouton catch me
+    =========================================================*/
+   
+    
+    
+    button {
+      position: absolute;
+      top: 60%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      border-radius: 100%;
+      height: 4rem;
+      width: 10rem;
+      font-size: 1.5rem;
+      border-radius: 5px;
+      border: none;
+      box-shadow: 1px 1px 5px black;
+      background-color: white;
+    }
+    
+    /*========================================================= 
+    fin decode css du bouton catch me
+    =========================================================*/
+
+
